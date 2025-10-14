@@ -52,6 +52,7 @@ Aplicar os conhecimentos iniciais de programação em Python, utilizando estrutu
 ## 🛠️ Tecnologias Utilizadas
 - **Python 3.x**
 - Vscode
+- PyCharm
 
 ---
 
